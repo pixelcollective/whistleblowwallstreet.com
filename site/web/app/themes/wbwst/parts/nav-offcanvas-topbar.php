@@ -4,7 +4,7 @@
 <div class="top-bar" id="top-bar-menu">
 	<div class="top-bar-left float-left">
 		<ul class="menu">
-			<li><a href="<?php echo home_url(); ?>"><img src="https://whistleblowwallstreet.other98action.org/wp-content/uploads/sites/4/2016/02/WBWS-logo.jpg" alt="Whistleblow Wall Street" style="max-height: 25px;" /></a></li>
+			<li><a href="<?php echo home_url(); ?>"><img src="/app/uploads/2016/02/WBWS-logo.jpg" alt="Whistleblow Wall Street" style="max-height: 25px;" /></a></li>
 		</ul>
 	</div>
 	<div class="top-bar-right show-for-medium">
