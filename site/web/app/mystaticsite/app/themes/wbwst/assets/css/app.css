@@ -1,0 +1,14 @@
+body {background-image: url("../images/paper_fibers.png");}
+.off-canvas-content {background: transparent;}
+h1, h2, h3, h4, h5, h6, p, blockquote, ul li, ol li, span, * {font-family: "Source Sans Pro",sans-serif;}
+h1 {font-weight: bold;font-size: 1.8em;}
+h2 {font-size: 1.4em;font-weight: bold;}
+h3 {font-size: 1.2em;font-weight: bold;}
+.top-bar, .top-bar ul {background-color: black;}
+.top-bar .menu-item a {margin-top: .5em !important;}
+.top-bar a {color: white;}
+.widget {margin-bottom: 1.5em;}
+.widget .button {margin-bottom: 0em;}
+.widget .widgettitle {font-weight: bold;}
+.widget_recent_entries ul li {margin-bottom: 1em;}
+.home .entry-content img, .archive .entry-content img {margin-bottom: 1em;}
